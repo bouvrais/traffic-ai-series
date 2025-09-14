@@ -1,0 +1,12 @@
+[project]
+name = "part1-scripts"
+version = "0.1.0"
+description = "Traffic monitoring scripts using AI and computer vision"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ultralytics",
+    "supervision",
+    "opencv-python",
+    "numpy",
+]

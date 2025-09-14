@@ -8,7 +8,7 @@ The series explores how modern AI and computer vision tools have democratized so
 
 ### Published Articles
 
-1. **[How My Gaming PC Accidentally Became a Real-Time City Traffic Monitor](link-to-part-1)** - Building with consumer hardware
+1. **[How My Gaming PC Accidentally Became a Real-Time City Traffic Monitor](https://medium.com/@bouvrais/how-my-gaming-pc-accidentally-became-a-real-time-city-traffic-monitor-f7f439668783)** - Building with consumer hardware
 2. **Part 2** - *(coming soon)*
 3. **Part 3** - *(coming soon)*
 
